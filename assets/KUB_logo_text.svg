@@ -1,0 +1,225 @@
+<svg width="546" height="138" viewBox="0 0 546 138" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo (128×138) placed at (0,0) -->
+  <g id="logo">
+    <g data-cell-id="0">
+      <g data-cell-id="1">
+        <g data-cell-id="UF-7tm1iKW-WdfiSGPXm-7">
+          <g>
+            <!-- Top face -->
+            <polygon 
+              points="64,4 124,28.99 64,53.98 4,28.99" 
+              fill="#19A0FC" 
+              stroke="#000000" 
+              stroke-width="8" 
+              stroke-linejoin="round"
+            />
+            <!-- Left face -->
+            <polygon 
+              points="4,28.99 64,53.98 64,134 4,109.01" 
+              fill="#3BB3FF" 
+              stroke="#000000" 
+              stroke-width="8" 
+              stroke-linejoin="round"
+            />
+            <!-- Right face -->
+            <polygon 
+              points="64,53.98 124,28.99 124,109.01 64,134" 
+              fill="#147EF4" 
+              stroke="#000000" 
+              stroke-width="8" 
+              stroke-linejoin="round"
+            />
+            <!-- Edge outline -->
+            <path 
+              d="M 64 4 L 124 28.99 L 124 109.01 L 64 134 L 4 109.01 L 4 28.99 Z" 
+              fill="none" 
+              stroke="#000000" 
+              stroke-width="8" 
+              stroke-linejoin="round"
+            />
+            <!-- Internal lines -->
+            <path 
+              d="M 4 28.99 L 64 53.98 L 124 28.99" 
+              fill="none" 
+              stroke="#000000" 
+              stroke-width="8"
+              stroke-linecap="round"
+            />
+            <path 
+              d="M 64 53.98 L 64 134" 
+              fill="none" 
+              stroke="#000000" 
+              stroke-width="8"
+              stroke-linecap="round"
+            />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- Text Logo (398×119) placed to the right with a 20px gap and vertically centered -->
+  <g id="text-logo" transform="translate(148,9.5)">
+    <g data-cell-id="0">
+      <g data-cell-id="1">
+        <g data-cell-id="BWEvY9OtbvyDbBo7HbRw-2">
+          <g>
+            <rect 
+              x="265.67" 
+              y="22.33" 
+              width="110" 
+              height="73.33" 
+              rx="11" 
+              ry="11" 
+              fill="#19a0fc" 
+              stroke="#000000" 
+              stroke-width="8" 
+              transform="rotate(90,320.67,59)" 
+              pointer-events="all" 
+              style="fill: light-dark(rgb(25, 160, 252), rgb(25, 160, 252)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"
+            />
+          </g>
+        </g>
+        <g data-cell-id="wM8UivyzC6AXdt5t5bxt-3">
+          <g>
+            <rect 
+              x="40.67" 
+              y="40.67" 
+              width="36.67" 
+              height="36.67" 
+              rx="5.5" 
+              ry="5.5" 
+              fill="#19a0fc" 
+              stroke="#000000" 
+              stroke-width="8" 
+              pointer-events="all" 
+              style="fill: light-dark(rgb(25, 160, 252), rgb(25, 160, 252)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"
+            />
+          </g>
+        </g>
+        <g data-cell-id="wM8UivyzC6AXdt5t5bxt-4">
+          <g>
+            <rect 
+              x="77.33" 
+              y="4" 
+              width="36.67" 
+              height="36.67" 
+              rx="5.5" 
+              ry="5.5" 
+              fill="#19a0fc" 
+              stroke="#000000" 
+              stroke-width="8" 
+              pointer-events="all" 
+              style="fill: light-dark(rgb(25, 160, 252), rgb(25, 160, 252)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"
+            />
+          </g>
+        </g>
+        <g data-cell-id="wM8UivyzC6AXdt5t5bxt-5">
+          <g>
+            <rect 
+              x="77.33" 
+              y="77.33" 
+              width="36.67" 
+              height="36.67" 
+              rx="5.5" 
+              ry="5.5" 
+              fill="#19a0fc" 
+              stroke="#000000" 
+              stroke-width="8" 
+              pointer-events="all" 
+              style="fill: light-dark(rgb(25, 160, 252), rgb(25, 160, 252)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"
+            />
+          </g>
+        </g>
+        <g data-cell-id="wM8UivyzC6AXdt5t5bxt-14">
+          <g>
+            <rect 
+              x="4" 
+              y="4" 
+              width="36.67" 
+              height="110" 
+              rx="5.5" 
+              ry="5.5" 
+              fill="#19a0fc" 
+              stroke="#000000" 
+              stroke-width="8" 
+              pointer-events="all" 
+              style="fill: light-dark(rgb(25, 160, 252), rgb(25, 160, 252)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"
+            />
+          </g>
+        </g>
+        <g data-cell-id="wM8UivyzC6AXdt5t5bxt-6">
+          <g>
+            <rect 
+              x="144" 
+              y="4" 
+              width="36.67" 
+              height="110" 
+              rx="5.5" 
+              ry="5.5" 
+              fill="#19a0fc" 
+              stroke="#000000" 
+              stroke-width="8" 
+              pointer-events="all" 
+              style="fill: light-dark(rgb(25, 160, 252), rgb(25, 160, 252)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"
+            />
+          </g>
+        </g>
+        <g data-cell-id="wM8UivyzC6AXdt5t5bxt-7">
+          <g>
+            <rect 
+              x="180.67" 
+              y="40.67" 
+              width="36.67" 
+              height="110" 
+              rx="5.5" 
+              ry="5.5" 
+              fill="#19a0fc" 
+              stroke="#000000" 
+              stroke-width="8" 
+              transform="rotate(90,199,95.67)" 
+              pointer-events="all" 
+              style="fill: light-dark(rgb(25, 160, 252), rgb(25, 160, 252)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"
+            />
+          </g>
+        </g>
+        <g data-cell-id="wM8UivyzC6AXdt5t5bxt-8">
+          <g>
+            <rect 
+              x="180.67" 
+              y="40.67" 
+              width="110" 
+              height="36.67" 
+              rx="5.5" 
+              ry="5.5" 
+              fill="#19a0fc" 
+              stroke="#000000" 
+              stroke-width="8" 
+              transform="rotate(90,235.67,59)" 
+              pointer-events="all" 
+              style="fill: light-dark(rgb(25, 160, 252), rgb(25, 160, 252)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"
+            />
+          </g>
+        </g>
+        <g data-cell-id="wM8UivyzC6AXdt5t5bxt-12">
+          <g>
+            <rect 
+              x="302.33" 
+              y="22.33" 
+              width="73.33" 
+              height="110" 
+              rx="11" 
+              ry="11" 
+              fill="#19a0fc" 
+              stroke="#000000" 
+              stroke-width="8" 
+              transform="rotate(90,339,77.33)" 
+              pointer-events="all" 
+              style="fill: light-dark(rgb(25, 160, 252), rgb(25, 160, 252)); stroke: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));"
+            />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
