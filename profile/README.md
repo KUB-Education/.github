@@ -1,4 +1,4 @@
-<img src="../assets/KUB_logo_and_text.svg" title="" alt="" data-align="center">
+<img src="../assets/KUB_logo_text.svg" title="" alt="" data-align="center">
 
 ---
 
