@@ -18,8 +18,6 @@
 
 ---
 
-### Project status
-
 **Exciting things are coming!**
 
 KUB is in development and will be live soon at [kub.education](https://kub.education)
